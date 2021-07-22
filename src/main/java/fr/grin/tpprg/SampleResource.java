@@ -1,4 +1,4 @@
-package fr.grin.tpprggrin;
+package fr.grin.tpprg;
 
 import jakarta.inject.Inject;
 import jakarta.ws.rs.GET;

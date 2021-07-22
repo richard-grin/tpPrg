@@ -1,4 +1,4 @@
-package fr.grin.tpprggrin;
+package fr.grin.tpprg;
 
 import jakarta.ws.rs.ApplicationPath;
 import jakarta.ws.rs.core.Application;
